@@ -1,0 +1,4 @@
+ip: 78.46.76.70
+username: damoon_DB
+password: c1_Mjt72
+database: inuni

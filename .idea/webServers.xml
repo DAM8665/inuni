@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b9f9156d-77a2-4f6a-bbb8-c65fe67e0eea" name="server" url="https://">
+        <fileTransfer rootFolder="/C:\inetpub\vhosts\inuni.xyz\httpdocs" accessType="SFTP" host="194.147.142.20" port="22" sshConfigId="158fa440-e627-4a38-9b12-3023138a5e1e" sshConfig="Administrator@194.147.142.20:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
