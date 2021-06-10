@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="0eb1fccc-bc37-4c98-97ea-c2d44c1f5949" name="inuni.xyz" url="http://87.236.212.225">
+        <fileTransfer rootFolder="/httpdocs" host="87.236.212.225" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,4 @@
+ip,port: 87.236.212.225,1433
+database: inuni
+username: inuni
+password: Cda6u~09

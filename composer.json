@@ -1,0 +1,16 @@
+{
+    "name": "damoon/inuni",
+    "type": "project",
+    "authors": [
+        {
+            "name": "damoon",
+            "email": "damoon.arabali@yahoo.com"
+        }
+    ],
+    "require": {}
+    ,"autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}

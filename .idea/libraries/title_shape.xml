@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="title-shape">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/images/title-shape.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
