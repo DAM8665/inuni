@@ -159,22 +159,16 @@
                     <div class="col-lg-5">
                         <div class="contact-box">
                             <h6>Main Contact Number</h6>
-                            <p>020 3461 4444 (Monday to Friday, 9am to 5pm)</p>
+                            <p>+4917645836951 (Monday to Friday, 9am to 5pm)</p>
                             <p>Please use this number if you know the name of the person
-                                or department you would like to contact. Or you can fax
-                                020 3461 4771.</p>
-                        </div>
-                        <!-- end contact-box -->
-                        <div class="contact-box">
-                            <h6>General enquiries</h6>
-                            <p><a href="src/#">enquiries@wandau.co.uk</a>
-                                020 3461 4878 (Monday to Friday: 10:00 - 17:00).</p>
+                                or department you would like to contact.</p>
                         </div>
                         <!-- end contact-box -->
                         <div class="contact-box">
                             <h6>Media enquiries</h6>
-                            <p><a href="src/#">sponsor@wandau.co.uk</a>
-                                The person or department you would like to contact</p>
+                            <p><a href="src/#">damoon.arabali@student.fh-kiel.de</a>
+                                The person or department you would like to contact.
+                                +4917645836951 (Monday to Friday: 10:00 - 17:00).</p>
                         </div>
                         <!-- end contact-box -->
                     </div>

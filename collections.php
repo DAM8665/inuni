@@ -109,7 +109,7 @@
         <div class="custom-menu">
           <ul>
             <li><a href="#">Eng</a></li>
-            <li><a href="#">Rus</a></li>
+            <li><a href="#">persian</a></li>
           </ul>
         </div>
         <!-- end custom-menu -->

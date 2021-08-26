@@ -1,0 +1,10 @@
+<script src="{{asset('public')}}/js/jquery.min.js"></script>
+<script src="{{asset('public')}}/js/bootstrap.min.js"></script>
+<script src="{{asset('public')}}/js/gsap.min.js"></script>
+<script src="{{asset('public')}}/js/locomotive-scroll.min.js"></script>
+<script src="{{asset('public')}}/js/ScrollTrigger.min.js"></script>
+<script src="{{asset('public')}}/js/kinetic-slider.js"></script>
+<script src="{{asset('public')}}/js/fancybox.min.js"></script>
+<script src="{{asset('public')}}/js/odometer.min.js"></script>
+<script src="{{asset('public')}}/js/swiper.min.js"></script>
+<script src="{{asset('public')}}/js/scripts.js"></script>
